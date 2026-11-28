@@ -1,4 +1,4 @@
-const APP_VERSION = "v0.3b"; // Update this to match your CACHE_NUMBER / sw.js version
+const APP_VERSION = "v1.0.0"; // Update this to match your CACHE_NUMBER / sw.js version
 
 const LANGUAGE_CATEGORIES = [
   "English",
@@ -27,7 +27,6 @@ const SEASON_CATEGORIES = [
   "Christmas",
   "Lent",
   "Easter",
-  "Ordinary Time",
   "Specials"
 ];
 
