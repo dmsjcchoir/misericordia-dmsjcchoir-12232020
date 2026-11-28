@@ -1,4 +1,4 @@
-const APP_VERSION = "v1.0.0"; // Update this to match your CACHE_NUMBER / sw.js version
+const APP_VERSION = "v1.0.1"; // Update this to match your CACHE_NUMBER / sw.js version
 
 const LANGUAGE_CATEGORIES = [
   "English",

@@ -1,6 +1,6 @@
 importScripts('./songs.js');
 
-const CACHE_NAME = 'misericordia-v1.0.0';
+const CACHE_NAME = 'misericordia-v1.0.1';
 
 const IS_LOCAL_DEV =
   self.location.hostname === '127.0.0.1' ||
